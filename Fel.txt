@@ -1,3 +1,6 @@
+Testfallen går igenom men det blir "rödtext" när jag kör edge och chrome fast INTE firefox.
+Du kan kolla nedan på Github.
+
 https://github.com/MarreGit/ToDoList
 
 mars 13, 2024 10:47:01 EM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
